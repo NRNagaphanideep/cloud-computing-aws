@@ -1,4 +1,4 @@
-l-Cloud Master Notes: AWS & Azure Architecture (Days 44 - 46)
+Dual-Cloud Master Notes: AWS & Azure Architecture (Days 44 - 46)
 
 ---
 
