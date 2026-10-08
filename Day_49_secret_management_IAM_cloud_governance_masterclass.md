@@ -1,4 +1,4 @@
-y 49: Secrets Management, IAM, and Cloud Governance Masterclass
+Day 49: Secrets Management, IAM, and Cloud Governance Masterclass
 
 This comprehensive guide covers the theory, core architecture, best practices, interview questions, and hands-on implementation steps for Azure Key Vault, AWS Secrets Manager, and AWS Organizations Service Control Policies (SCPs).
 
