@@ -1,4 +1,4 @@
-WS Fresher Interview Questions & Answers (Master Edition)
+AWS Fresher Interview Questions & Answers (Master Edition)
 
 This comprehensive guide covers all AWS topics from your curriculum tailored for entry-level (fresher) DevOps and Cloud Engineer interviews, including full forms, core definitions, theoretical concepts, and practical scenarios.
 
