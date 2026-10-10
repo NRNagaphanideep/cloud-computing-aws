@@ -1,4 +1,4 @@
-WS S3 Concepts & Architecture
+AWS S3 Concepts & Architecture
 
 **Amazon S3 (Simple Storage Service)** is an object storage service built to store and retrieve any amount of data from anywhere on the web.
 
@@ -19,9 +19,9 @@ WS S3 Concepts & Architecture
 
 ---
 
-## Part 4: AWS Hands-on Practice Guide
+## AWS Hands-on Practice Guide
 
-### Hands-on 2: Creating an S3 Bucket, Uploading Objects, Versioning & Lifecycle
+### Hands-on 1: Creating an S3 Bucket, Uploading Objects, Versioning & Lifecycle
 
 *(Designed for local conceptual execution / conceptual lab tracking)*
 
