@@ -1,4 +1,4 @@
-c 2: AWS CLI (Amazon Web Services Command Line Interface)
+Topic 2: AWS CLI (Amazon Web Services Command Line Interface)
 
 AWS CLI is an extremely powerful tool for controlling and automating AWS services from the command line.
 
