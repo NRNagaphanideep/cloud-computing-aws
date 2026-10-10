@@ -1,4 +1,4 @@
-y 52: Data Protection & BCDR (Business Continuity & Disaster Recovery)
+Day 52: Data Protection & BCDR (Business Continuity & Disaster Recovery)
 
 This document covers detailed architectural concepts, operational workflows, and interview preparation questions for **Amazon EBS Snapshots** and **BCDR Metrics (RPO & RTO)**.
 
