@@ -1,5 +1,5 @@
 
-dule 2: Auditing - AWS CloudTrail**
+## **Module 2: Auditing - AWS CloudTrail**
 
 ### **Core Concepts**
 * **AWS CloudTrail:** A governance, compliance, and auditing service that records API calls and account activity across your AWS infrastructure.
