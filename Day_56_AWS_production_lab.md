@@ -1,4 +1,4 @@
-y 56: Production Lab - Multi-Tier HA Application & AWS Load Balancing
+Day 56: Production Lab - Multi-Tier HA Application & AWS Load Balancing
 
 ## 1. Detailed Topic Explanations
 
