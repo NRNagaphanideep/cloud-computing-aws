@@ -1,4 +1,4 @@
-y 55: Monitoring with AWS CloudWatch - Comprehensive Guide
+Day 55: Monitoring with AWS CloudWatch - Comprehensive Guide
 
 ## 1. Introduction to AWS CloudWatch
 AWS CloudWatch is a monitoring and observability service built for DevOps engineers, developers, and system administrators to gain system-wide visibility into resource utilization, operational performance, and application health[cite: 3]. It collects monitoring and operational data in the form of logs, metrics, and events, providing a unified view of AWS resources and on-premises infrastructure.
